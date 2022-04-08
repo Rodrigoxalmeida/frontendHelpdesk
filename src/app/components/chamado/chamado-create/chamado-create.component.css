@@ -1,6 +1,6 @@
 .container {
     width: 45%;
-    margin:auto;
+    margin:auto auto 3rem auto;
     padding: 1rem;
     border-radius: 1rem;
 }
@@ -9,7 +9,7 @@
     width: 100%;
 }
 
-h1, img{
+h1, img, p{
     text-align: center;
 }
 
