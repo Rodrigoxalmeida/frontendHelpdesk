@@ -33,3 +33,9 @@ img {
 button {
     margin-top: 1.5rem;
 }
+
+p {
+    text-align: center;
+    margin-top: 3rem;
+    opacity: .5;
+}
