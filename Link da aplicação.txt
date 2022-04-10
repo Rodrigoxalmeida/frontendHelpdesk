@@ -1,4 +1,0 @@
-https://frontend-helpdesk-phi.vercel.app/login
-
-login: Rodrigo@mail.com
-Senha: 1234
